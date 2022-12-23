@@ -1,0 +1,21 @@
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\wow gui goes click click.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\wow gui goes click click.exe
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\wow gui goes click click.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.csproj.AssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.csproj.SuggestedBindingRedirects.cache
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.csproj.GenerateResource.cache
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.exe
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Form1.resources
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\en-US\wow gui goes click click.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Form1.en-US.resources
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\en-US\wow gui goes click click.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Form2.resources
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\wow gui goes click click.exe.manifest
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\bin\Release\wow gui goes click click.application
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.exe.manifest
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow gui goes click click.application
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Form3.resources
+E:\Program Files (x86)\Microsoft Visual Studio\2022\Community\Projects\wow gui goes click click\obj\Release\wow_gui_goes_click_click.Form4.resources
